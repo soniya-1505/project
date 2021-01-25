@@ -1,0 +1,74 @@
+
+	
+body
+{
+	background-image:linear-gradient(#303F9F,#448AFF);
+	font-family:Amazon Ember Light;
+	color:#fff;
+	background-color:#2e2e2e
+}
+
+.container-fluid , h1 
+{
+	
+	float:right;
+	
+
+}
+#qurybox
+{
+	margin-top:10px;
+	margin-left:10px;	
+}
+#addM
+{
+	float:right;
+	position:relative;
+
+}
+#socio img
+{
+	margin-left:150px;
+}
+.container input[type=text]
+
+{
+	
+	border:none;
+	border-bottom: 2px solid white;
+	width:400px;
+}
+.container  input[type=text] ,button
+{
+	
+	text-align:center;
+	margin-left:400px;
+}
+h2
+{
+	text-align:center;
+	margin-bottom:20px;
+}
+input:focus{outline:none;}
+#movietitle
+{
+	font-family:Impact;
+	font-weight:bolder;				
+}
+#movie_metascore{
+	
+	font-size:40px;
+	font-weight:bold;
+	background-color:#356196;
+	padding:15px 20px;
+	border-radius:50px;
+	color:#FFFFFF;
+	margin-top:20px;
+}
+ul li{
+	margin: 0;
+	list-style: none;
+}
+
+
+
